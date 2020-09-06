@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MikaylaMace/static/css/main.6d2b1a71.chunk.css",
+    "main.js": "/MikaylaMace/static/js/main.5b621de2.chunk.js",
+    "main.js.map": "/MikaylaMace/static/js/main.5b621de2.chunk.js.map",
+    "runtime-main.js": "/MikaylaMace/static/js/runtime-main.d6f410d1.js",
+    "runtime-main.js.map": "/MikaylaMace/static/js/runtime-main.d6f410d1.js.map",
+    "static/css/2.11829350.chunk.css": "/MikaylaMace/static/css/2.11829350.chunk.css",
+    "static/js/2.29dfaae3.chunk.js": "/MikaylaMace/static/js/2.29dfaae3.chunk.js",
+    "static/js/2.29dfaae3.chunk.js.map": "/MikaylaMace/static/js/2.29dfaae3.chunk.js.map",
+    "index.html": "/MikaylaMace/index.html",
+    "precache-manifest.8a29ade635fd9d081412e7b6a62977f3.js": "/MikaylaMace/precache-manifest.8a29ade635fd9d081412e7b6a62977f3.js",
+    "service-worker.js": "/MikaylaMace/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/MikaylaMace/static/css/2.11829350.chunk.css.map",
+    "static/css/main.6d2b1a71.chunk.css.map": "/MikaylaMace/static/css/main.6d2b1a71.chunk.css.map",
+    "static/js/2.29dfaae3.chunk.js.LICENSE.txt": "/MikaylaMace/static/js/2.29dfaae3.chunk.js.LICENSE.txt",
+    "static/media/Mace_icon_1.png": "/MikaylaMace/static/media/Mace_icon_1.95e76a90.png",
+    "static/media/Mace_logo.png": "/MikaylaMace/static/media/Mace_logo.790e205a.png",
+    "static/media/logo.svg": "/MikaylaMace/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6f410d1.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.29dfaae3.chunk.js",
+    "static/css/main.6d2b1a71.chunk.css",
+    "static/js/main.5b621de2.chunk.js"
+  ]
+}
